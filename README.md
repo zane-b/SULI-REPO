@@ -17,4 +17,4 @@ The technical report is provided for further reading on the methods and results 
 
 
 ## ACKNOWLEDGEMENT
-This code was written by Zane Bayer and Valentine Anantharag. We would like to thank Matthew Norman for supplying the dataset and assistance with the project. This research used resources of the Oak Ridge Leadership Computing Facility, which is a DOE Office of Science User Facility, and the resources of the Compute and Data Environment for Science (CADES) at the Oak Ridge National Laboratory, both supported by the Office of Science of the U.S. Department of Energy under Contract DE-AC05-00OR22725.
+This code was written by Zane Bayer and Valentine Anantharaj. We would like to thank Matthew Norman for supplying the dataset and assistance with the project. This research used resources of the Oak Ridge Leadership Computing Facility, which is a DOE Office of Science User Facility, and the resources of the Compute and Data Environment for Science (CADES) at the Oak Ridge National Laboratory, both supported by the Office of Science of the U.S. Department of Energy under Contract DE-AC05-00OR22725.
