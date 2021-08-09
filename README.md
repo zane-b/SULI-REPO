@@ -9,4 +9,5 @@ Numerical weather prediction (NWP) models are now used extensively in weather pr
 
 For an in-depth description of the KMP scheme, see https://doi.org/10.1016/j.cageo.2012.10.006. The dataset was gathered from an ORNL numeric weather model and consists of 24 million input/output samples. The notebook includes the methods used to calulate statisitics of the dataset and to emulate the KMP scheme using sklearn models. We used python 3.8 to develop the emulators.
 
+## ACKNOWLEDGEMENT
 This research used resources of the Oak Ridge Leadership Computing Facility, which is a DOE Office of Science User Facility, and the resources of the Compute and Data Environment for Science (CADES) at the Oak Ridge National Laboratory, both supported by the Office of Science of the U.S. Department of Energy under Contract DE-AC05-00OR22725.
